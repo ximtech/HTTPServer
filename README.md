@@ -1,5 +1,7 @@
 # HTTPServer
 
+[![tests](https://github.com/ximtech/HTTPServer/actions/workflows/cmake-ci.yml/badge.svg)](https://github.com/ximtech/HTTPServer/actions/workflows/cmake-ci.yml)
+
 Utility library provides main features for working with web server.
 
 ## Features
